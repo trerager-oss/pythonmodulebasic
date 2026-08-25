@@ -15,7 +15,7 @@
 - Incident management & production support
 
 ### 📂 About This Repository
-This repo contains Python and SQL scripts related to Db2 administration tasks — things like performance monitoring, automation helpers, and query examples that reflect real-world DBA work.
+This repo contains practice Python scripts to learn how Python can automate Db2 administration tasks — things like performance monitoring, automation helpers, and query examples that reflect real-world DBA work.
 
 ### 📫 Contact
 - Email: trerager@gmail.com
